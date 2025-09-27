@@ -1,9 +1,26 @@
-# MLOPS_Project
+# 🚀 MLOps - Machine Learning Operations
 
-Proyecto de MLOPs
+¡Este es el proyecto de MLOps para la gestion del proyecto de Propinas. Esta constituido por: 
 
-## 00-Setup: Puesta a punto de entorno y flujo de trabajo
+## Equipo de trabajo
 
-Este es el punto de partida del proceso de preparacion del flujo de trabajo que vamos a tener para el proyecto
+* Jheinson
+* Diana
+* Eliana
+* Stiven
 
-Esta es una prueba, Jheinson
+
+##  Que encontraras en este proyecto?
+
+- **🔧 Setup y Herramientas** - Configuración de entornos profesionales con Python, Git y gestores de dependencias modernos
+- **📊 ML Tracking** - Seguimiento de experimentos y versionado de modelos con MLflow
+- **🔄 Orquestación** - Automatización de pipelines con Prefect
+- **🚀 Deployment** - Despliegue de modelos como servicios web con Flask y Docker
+- **📈 Monitoreo** - Observabilidad y métricas de modelos en producción
+- **🏗️ Proyecto Final** - Implementación end-to-end de un sistema MLOps completo
+
+## 💡 Filosofía del Curso
+
+Creemos en el **aprendizaje práctico**. Cada concepto se acompaña de ejercicios hands-on y proyectos reales que podrás aplicar inmediatamente en tu trabajo.
+
+**¡Empecemos este viaje hacia el dominio de MLOps juntos!** 🎉
