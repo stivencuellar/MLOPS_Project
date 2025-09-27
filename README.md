@@ -1,13 +1,22 @@
 # 🚀 MLOps - Machine Learning Operations
 
-¡Este es el proyecto de MLOps para la gestion del proyecto de Propinas. Esta constituido por: 
+¡Este es el proyecto de MLOps con un dataset que refeleja las propinas de los camareros en restaurantes pueden verse influenciadas por muchos factores, incluyendo la naturaleza del restaurante, el tamaño del grupo y
+la ubicación de las mesas en el restaurante. Los gerentes de restaurantes necesitan saber qué factores
+importan cuando asignan mesas a los camareros. Por el bien de la moral del personal, generalmente quieren evitar tanto la sustancia como la apariencia de un trato injusto a los camareros, para quienes las propinas (al menos en los restaurantes de Estados Unidos ) son un componente importante del salario.
+En un restaurante, un camarero registró los siguientes datos sobre todos los clientes a los que atendió durante un intervalo de dos meses y medio a principios de 1990.
+El restaurante, ubicado en un centro comercial suburbano, formaba parte de una cadena nacional y servía un menú variado. En cumplimiento de la ley local, el restaurante ofreció sentarse en una sección para no fumadores a los clientes que lo solicitaron. Cada registro incluye un día y una hora, y en conjunto, muestran el
+horario de trabajo del camarero.
+
+
+
+Este trabajo es realizdo por: 
 
 ## Equipo de trabajo
 
-* Jheinson
-* Diana
-* Eliana
-* Stiven
+* Jheinson Andres Marin
+* Diana Marcela Arias Arizmendy
+* Eliana Maria Henao
+* Stiven Cuellar 
 
 
 ##  Que encontraras en este proyecto?
