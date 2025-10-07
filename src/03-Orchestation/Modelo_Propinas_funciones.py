@@ -120,7 +120,7 @@ def train_model_PCA(datosEntrenamiento):
     return model_PCA
 
 
-@flow(name="Modelo Propinas", description="End-to-end ML pipeline for tips prediction")
+@flow(name="Modelo Propinas", description="End-to-end ML pipeline for tips prediction", flow_run_name="El jei tips")
 def tip_prediction():
     datos = read_dataframe()
     datos.head()
